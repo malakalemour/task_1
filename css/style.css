@@ -1,0 +1,50 @@
+.header_section{
+	background-color: black;
+	height: 100vh;
+position: relative;
+
+}
+.header{
+	display: flex;
+	justify-content: space-between;
+}
+.par_h_section{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	color: aliceblue;
+	text-align:center ;
+}
+.title{
+	text-transform: uppercase;
+}
+.btu_hero{
+	height: 40px;
+	width: 150px;
+	background-color: #fa694e;
+	border: none;
+	border-radius: 2%;
+	color: white;
+}
+.tog{
+	color: brown;
+	font-size:50px;
+}
+.icon_section{
+	display:flex ;
+	justify-content:space-around;
+	text-align: center;
+
+}
+.icon_section i{
+	
+	border: 2px solid black;
+	border-radius: 50%;
+	font-size: 40px;
+	padding: 10px;
+}
+.padding{
+	padding-top:40px ;
+	padding-bottom:40px ;
+}
