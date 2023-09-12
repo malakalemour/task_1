@@ -48,3 +48,31 @@ position: relative;
 	padding-top:40px ;
 	padding-bottom:40px ;
 }
+.task_para{
+	text-align: center;
+	line-height: .5;
+
+}
+.para_hadding{
+	text-transform: capitalize;
+}
+.para_p{
+color: rgb(104, 108, 108);
+}
+.image_par{
+	display: flex;
+	justify-content: space-between;
+width: 75%;
+padding-left: 150px;
+
+}
+.image1{
+	background-color: rgb(168, 166, 166);
+	width: 50%;
+}
+.text1{
+	width: 50%;
+	border: rgb(168, 166, 166);
+	
+
+}
